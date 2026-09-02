@@ -1,3 +1,5 @@
 langchain
 langchain-google-genai
 deepagents
+langgraph-checkpoint-postgres
+psycopg[binary]
