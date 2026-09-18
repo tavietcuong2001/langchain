@@ -1,4 +1,5 @@
 langchain
+langchain[mcp]
 langchain-google-genai
 deepagents
 langgraph-checkpoint-postgres
